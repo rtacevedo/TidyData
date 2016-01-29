@@ -1,3 +1,4 @@
+
 ## Getting and Cleaning Data
 
 Source dataset https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
@@ -21,6 +22,7 @@ Source dataset https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUC
 
 * tidydata represents the first dataset - saved as tidydata.csv
 * meandata represents the second independent data sets - saved as meandata.csv
+
 
 
 
